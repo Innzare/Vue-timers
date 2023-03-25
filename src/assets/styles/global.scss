@@ -1,0 +1,20 @@
+@import './fonts.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gotham-pro';
+}
+
+body {
+  background: #353638;
+}
+
+input {
+  outline: 0;
+}
+
+ul {
+  list-style: none;
+}
