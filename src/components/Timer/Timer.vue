@@ -102,7 +102,7 @@ export default {
    .timer-controls {
       display: flex;
       gap: 36px;
-      padding: 16px 8px;
+      padding: 8px;
    }
 
    button {
